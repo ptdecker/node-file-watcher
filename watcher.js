@@ -1,3 +1,4 @@
+#!/usr/bin/nodejs --harmony
 /*
  * Exemplifies watching a file for changes then spawning a separate
  * process to execute a shell function and process its subsequent

@@ -1,3 +1,4 @@
+#!/usr/bin/nodejs --harmony
 const fs = require('fs');
 
 fs.writeFile('target.txt', 'a witty message', function(err) {
